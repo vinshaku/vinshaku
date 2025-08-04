@@ -1,36 +1,56 @@
-### Hi there, I'm Vinay Sharma 👋
+### 👋 Hi there, I'm Vinay Sharma
 
-<!--<p align="center">
+<!-- Optional Banner -->
+<!--
+<p align="center">
   <img src="https://github.com/vinshaku/vinshaku/blob/main/banner.png" alt="Vinay Sharma Banner"/>
-</p>-->
+</p>
+-->
+
+[![GitHub](https://img.shields.io/badge/GitHub-vinshaku-181717?logo=github&style=flat-square)](https://github.com/vinshaku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinshaku-0A66C2?logo=linkedin&style=flat-square)](https://linkedin.com/in/vinshaku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vins.dev-black?logo=internet-explorer&style=flat-square)](https://vins.dev)
 
 ---
 
-💻 **Ruby on Rails Developer | 5+ Years Experience**  
-📫 Email: [vinaysharma.contact@gmail.com](mailto:vinaysharma.contact@gmail.com)  
-📱 Phone: +91 9974440354  
-🔗 GitHub: [vinshaku](https://github.com/vinshaku)  
-🔗 LinkedIn: [vinshaku](https://linkedin.com/in/vinshaku)
+💻 **Ruby on Rails Developer | 5+ Years of Experience**  
+📫 **Email**: [vinaysharma.contact@gmail.com](mailto:vinaysharma.contact@gmail.com)  
+📱 **Phone**: +91 9974440354  
 
 ---
 
 ### 🧠 About Me
 
-Ruby on Rails Developer with over 5 years of experience in building scalable and high-performance web applications. Experienced in designing RESTful APIs, integrating payment gateways, improving performance, and deploying apps on AWS and Heroku. Skilled in backend architecture, performance tuning, and cross-functional collaboration with engineering and product teams across domains such as POS, CRM, VoIP, Real Estate and e-commerce.
+I'm a **Ruby on Rails Developer** with over **5 years** of experience building scalable, secure, and high-performance web applications.
+
+🚀 **What I Do**:
+- 🛠️ Build and maintain **RESTful APIs**
+- 💳 Integrate **payment gateways** (Stripe, Razorpay, etc.)
+- ⚙️ Optimize performance and scalability
+- ☁️ Deploy applications on **AWS**, **Heroku**, and Linux servers
+- 🤝 Collaborate with cross-functional teams
+
+💼 **Domain Experience**:
+- 🛒 E-commerce  
+- 🏠 Real Estate  
+- 🧾 CRM Systems  
+- 💼 POS Systems  
+- 📞 VoIP Services
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Ruby, jQuery  
-- **Frameworks**: Ruby on Rails  
-- **Databases**: PostgreSQL, MySQL, MongoDB *(intermediate)*  
-- **Tools**: Git, VS Code  
-- **OS**: Linux, MacOS
+- 💻 **Languages**: Ruby, JavaScript (jQuery)  
+- 🧱 **Frameworks**: Ruby on Rails  
+- 🗃️ **Databases**: PostgreSQL, MySQL, MongoDB *(Intermediate)*  
+- ⚙️ **Tools**: Git, VS Code  
+- 🖥️ **OS**: Linux, macOS
 
 ---
 
-<!-- ### 📊 GitHub Stats
+<!-- 
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinshaku&show_icons=true&theme=tokyonight" alt="vinshaku github stats"/>
@@ -47,8 +67,9 @@ Ruby on Rails Developer with over 5 years of experience in building scalable and
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinshaku&theme=onedark" />
 </p>
+-->
 
---- -->
+---
 
 ### 📈 Visitor Count
 
@@ -58,4 +79,4 @@ Ruby on Rails Developer with over 5 years of experience in building scalable and
 
 ---
 
-Thanks for visiting my profile 🙌
+🙏 **Thanks for visiting my profile.**
