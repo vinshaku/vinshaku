@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vinshaku-181717?logo=github&style=flat-square)](https://github.com/vinshaku)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinshaku-0A66C2?logo=linkedin&style=flat-square)](https://linkedin.com/in/vinshaku)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vins.dev-black?logo=internet-explorer&style=flat-square)](https://vins.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinshaku.com-black?logo=internet-explorer&style=flat-square)](https://vinshaku.com)
 
 ---
 
